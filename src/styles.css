@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+}
+.userrow{
+  margin : auto;
+  width: 50%;
+  
+}
+.label2{
+  display: block;
+  text-align: center;
+  font-size : 30px;
+  color : blue
+  
+}
+.login{
+  margin-top:30px;
+}
+.button2{
+  justify-content : center;
+  text-align: center;
+}
+.titleclass{
+  text-align: center;
+  color : red;
+}
+.borderinput{
+  border-width:thick;
+}
